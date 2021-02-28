@@ -1,0 +1,3 @@
+# Design
+
+THe two directories above contain all the files neededed to replicate an origin-I device. As it stands we do not provide an offical guide for replicating the origin-I. Because our team is spread thin we have not had the time to develop such a resource. However if there is intrest from the community in having an offical guide we will provide one. We ask that intrested parties submit an issue in the tracker. 
