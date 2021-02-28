@@ -1,5 +1,5 @@
 
-![NURV](https://github.com/boundri/NURV/blob/master/images/nurvtiltedphoto.jpg)
+![NURV](https://github.com/boundri/origin-I/blob/master/images/nurvtiltedphoto.jpg)
 # origin-I
 
 ## Purpose 
