@@ -22,7 +22,7 @@ While we are happy with our inital results we also discovered many limitations i
 
 With that said we believe that origin-I may be helpful for members of the community that would like to use the hardware for similar types of applications, or to help us enhance the functionality and usability of the existing demos.
 
-In order to continue expanding the boundri team has decided to branch development into a new device we're calling origin-II. You can find more information about origin-II by visiting the repo here. 
+In order to continue expanding the boundri team has decided to branch development into a new device we're calling origin-II. You can find more information about origin-II by visiting the repo https://github.com/boundri/origin-II. 
 
 
       
